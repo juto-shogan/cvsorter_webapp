@@ -64,13 +64,6 @@ npm run dev
 npm run build
 ```
 
-## ✅ To Do / Future Improvements
-
-- Integrate backend for file parsing and storage
-- Add AI-powered CV scoring or keyword extraction
-- Admin dashboard for managing applications
-- Export shortlist functionality
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).

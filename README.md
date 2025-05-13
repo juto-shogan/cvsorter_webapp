@@ -1,27 +1,24 @@
-# CVSorter WebApp
+```markdown
+**CVSorter WebApp**
 
-**CVSorter WebApp** is a frontend application designed to streamline and enhance the process of sorting and reviewing CVs (resumes). Built with modern web technologies like **Vite**, **TypeScript**, and **Tailwind CSS**, this app delivers a fast, responsive, and clean interface for efficiently handling applicant data.
+A frontend application for efficient CV sorting and review, built with Vite, TypeScript, and Tailwind CSS for a fast and responsive user experience.
 
-## 🌐 Live Demo
+**Key Features:**
 
-👉 [Visit the Live App](https://cvsorter-webapp.vercel.app)
+* Upload and structured visualisation of multiple CVs.
+* Filtering and sorting based on relevant criteria.
+* *Future:* AI-assisted CV ranking or keyword matching.
+* Rapid load times and modern UI.
+* Scalable and user-friendly design.
 
-## ✨ Features
+**Tech Stack:**
 
-- 📂 Upload and visualize multiple CVs in a structured format
-- 🔍 Filter and sort CVs based on relevant criteria
-- 🧠 (Optional future integration) AI-assisted CV ranking or keyword matching
-- ⚡ Fast load times and modern UI using Vite and Tailwind CSS
-- 🛠 Built with scalability and ease-of-use in mind
+* **Frontend:** TypeScript, React
+* **Styling:** Tailwind CSS
+* **Tooling:** Vite, ESLint
+* **Deployment:** Vercel
 
-## 🚀 Tech Stack
-
-- **Frontend:** TypeScript, React
-- **Styling:** Tailwind CSS
-- **Tooling:** Vite, ESLint
-- **Deployment:** Vercel
-
-## 📁 Project Structure
+**Project Structure:**
 
 ```
 cvsorter_webapp/
@@ -37,37 +34,24 @@ cvsorter_webapp/
 └── tailwind.config.js
 ```
 
-## 🧑‍💻 Getting Started
+**Getting Started:**
 
-Clone the repository:
+1.  Clone: `git clone https://github.com/juto-shogan/cvsorter_webapp.git`
+2.  Navigate: `cd cvsorter_webapp`
+3.  Install: `npm install`
+4.  Run dev server: `npm run dev`
 
-```bash
-git clone https://github.com/juto-shogan/cvsorter_webapp.git
-cd cvsorter_webapp
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-## 📦 Build for Production
+**Production Build:**
 
 ```bash
 npm run build
 ```
 
-## 📄 License
+**License:**
 
-This project is open-source and available under the [MIT License](LICENSE).
+[MIT License](https://www.google.com/search?q=LICENSE)
 
----
-check it out here:
-https://cvsorter-webapp.vercel.app/
+**Live Demo:**
+
+[https://cvsorter-webapp.vercel.app](https://cvsorter-webapp.vercel.app/)
+```

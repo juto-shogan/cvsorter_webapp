@@ -46,12 +46,3 @@ cvsorter_webapp/
 ```bash
 npm run build
 ```
-
-**License:**
-
-[MIT License](https://www.google.com/search?q=LICENSE)
-
-**Live Demo:**
-
-[https://cvsorter-webapp.vercel.app](https://cvsorter-webapp.vercel.app/)
-```

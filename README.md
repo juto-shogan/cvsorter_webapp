@@ -1,4 +1,3 @@
-```markdown
 **CVSorter WebApp**
 
 A frontend application for efficient CV sorting and review, built with Vite, TypeScript, and Tailwind CSS for a fast and responsive user experience.
@@ -20,7 +19,7 @@ A frontend application for efficient CV sorting and review, built with Vite, Typ
 
 **Project Structure:**
 
-```
+```markdown
 cvsorter_webapp/
 ├── public/         # Static files
 ├── src/            # Application source code

@@ -45,3 +45,4 @@ cvsorter_webapp/
 ```bash
 npm run build
 ```
+This repo is an extension of the initial project, cv_sorter = https://github.com/juto-shogan/cv_sorter
